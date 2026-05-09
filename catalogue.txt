@@ -1,0 +1,50 @@
+2-in-1 Tablet	Convertible Touchscreen Laptop with Stylus	Laptops	55000	15	8	8
+4K Pro Monitor 32"	Color Accurate Display for Design Work	Monitor	55000	8	2	6
+750W PSU	80 Plus Gold Modular Power Supply	Components	8500	30	17	5
+Access Point	Business Class PoE Ceiling Mount AP	Networking	7500	18	14	7
+Bluetooth Speaker	Portable Waterproof Wireless Speaker	Accessories	3000	90	5	8
+Cable Box	Large Management Box for Under-Desk Mess	Office Supplies	1200	60	2	15
+Cat6 Cable 30m	Pre-Terminated High Quality Ethernet Cable	Networking	1200	80	14	8
+Charging Pad	15W Fast Wireless Charger for Smartphones	Office Supplies	1800	100	2	16
+Chromebook 11"	Rugged Design with Long Battery Life	Laptops	25000	50	8	7
+Core i9 CPU	24-Core Desktop Processor with Max Boost	Components	55000	10	17	3
+DDR5 RAM 32GB	Dual Channel High Frequency Memory Kit	Components	14000	25	17	2
+Dual Monitor Stand	Fully Adjustable Desk Mount for Two Screens	Monitor	4500	40	2	7
+Ergonomic Chair	Breathable Mesh Back with Lumbar Support	Office Supplies	18000	10	2	10
+Ethernet Switch	8-Port Gigabit Unmanaged Desktop Switch	Networking	2500	50	14	4
+External HDD 2TB	Portable Backup Drive with USB 3.0	Storage	5500	60	11	3
+Gaming Headset	Surround Sound with Noise Cancelling Mic	Accessories	3500	120	5	4
+Gaming Laptop RTX	High Performance with RTX 4060 GPU	Laptops	110000	8	8	3
+Gaming Monitor 27"	144Hz Refresh Rate QHD Gaming Display	Monitor	25000	15	2	3
+HD Webcam 1080p	Wide Angle Lens for Video Conferencing	Accessories	2800	150	5	5
+LED Desk Lamp	Dimmable Eye-Caring Lamp with USB Port	Office Supplies	2500	40	2	12
+LED Monitor 24"	Full HD 24-inch monitor with slim design	Monitor	15000	20	2	2
+Label Printer	Wireless Thermal Shipping Label Maker	Office Supplies	9500	20	2	14
+Large Desk Mat	Waterproof Non-Slip Extended Mouse Pad	Accessories	800	200	5	6
+Liquid Cooler	240mm Radiator with RGB Quiet Fans	Components	9500	20	17	6
+MacBook Pro 14"	Apple M3 Chip with Liquid Retina XDR Display	Laptops	180000	10	8	6
+Mechanical Keyboard	Tactile RGB Backlit Wired Keyboard	Accessories	4500	500	5	3
+Mesh Wi-Fi System	Whole Home Coverage with 3-Node System	Networking	18000	12	14	3
+Mid-Tower Case	Tempered Glass Side Panel with Good Airflow	Components	7000	15	17	7
+NAS Drive 4TB	Reliable Hard Drive for Network Attached Storage	Storage	12000	20	11	8
+NVMe SSD 1TB	Gen4 High Speed Internal Solid State Drive	Storage	8500	40	11	2
+Paper Shredder	Micro-Cut High Security Shredder	Office Supplies	6500	15	2	13
+Portable Monitor 15"	Full HD USB-C Powered Travel Display	Monitor	12000	25	2	5
+Portable SSD 1TB	Rugged External SSD for Fast Data Transfer	Storage	9500	45	11	7
+Powerline Adapter	Ethernet over Power Outlet Starter Kit	Networking	4500	25	14	5
+Privacy Screen 24"	Anti-Glare Blue Light Filter for Monitors	Monitor	2500	60	2	8
+RTX 4070 GPU	Advanced Graphics Card for 1440p Gaming	Components	65000	7	17	4
+SATA SSD 500GB	Budget Friendly Internal SSD for Upgrades	Storage	3500	80	11	6
+Standing Desk	Electric Height Adjustable Workstation	Office Supplies	35000	5	2	11
+Student Laptop	Compact and Affordable for Education	Laptops	35000	30	8	5
+USB Flash 128GB	High Speed Type-A and Type-C Flash Drive	Storage	1500	200	11	4
+USB Wi-Fi Adapter	Dual Band Wireless AC USB Receiver	Networking	1500	100	14	6
+USB-C Hub 7-in-1	Multi-Port Adapter with HDMI and SD Reader	Accessories	2200	180	5	7
+UltraWide Monitor 34"	21:9 Curved Display for Productivity	Monitor	45000	10	2	4
+Ultrabook i7	Slim Laptop with 16GB RAM and 512GB SSD	Laptops	75000	12	8	2
+Wi-Fi 6 Router	High Speed Dual-Band Gigabit Wireless Router	Networking	6500	35	14	2
+Wireless Mouse	Ergonomic 2.4GHz Wireless Optical Mouse	Accessories	1200	100	5	2
+Workstation 17"	Heavy Duty Laptop for Engineering Tasks	Laptops	150000	5	8	4
+Z790 Motherboard	High-End Board with PCIe 5.0 Support	Components	28000	12	17	8
+bacha	sona bacha zabii 005	sexy .com	1	99099000	5	13
+microSD 256GB	U3 Speed Class for 4K Video Recording	Storage	2200	150	11	5
